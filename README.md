@@ -9,6 +9,7 @@
 [![Zulip](https://img.shields.io/badge/chat-on%20zulip-success)](https://turtle.zulipchat.com)
 [![Tokei Line Count](https://tokei.rs/b1/github/sunjay/turtle?category=code)](https://github.com/sunjay/turtle)
 
+(Fork of awesome but abandoned turtle library by [sunjay](https://github.com/sunjay/turtle))
 *Tweet your drawings to us on Twitter at [@RustTurtle](https://twitter.com/RustTurtle) and follow us to see what is being created!*
 
 Create animated drawings with the [Rust programming language][rust]. This
